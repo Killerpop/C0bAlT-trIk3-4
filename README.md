@@ -8,7 +8,7 @@ http://www.greyhelmet.net/
 En este dejamos disponible CobaltStrike en su versión 4.0 con un auto 
 ejecutable que permite lanzar el servidor y el cliente a la vez facilitando nuestra vida  ;) 
 
-
+Necesario tener instalado xterm
 
 Commands:
 
