@@ -17,4 +17,3 @@ Commands:
 	sudo ./ExecuteCobaltStrike4.0.sh
 	
 	
-                          By: Staff Haxk.Ur
