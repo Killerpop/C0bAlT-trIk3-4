@@ -6,7 +6,7 @@ http://www.greyhelmet.net/
 <img src="https://i.ytimg.com/vi/yTIeeMVetfw/maxresdefault.jpg" />
 
 En este dejamos disponible CobaltStrike en su versión 4.0 con un auto 
-ejecutable que permite lanzar el servidor y el cliente a la ves facilitando nuestra vida  ;) 
+ejecutable que permite lanzar el servidor y el cliente a la vez facilitando nuestra vida  ;) 
 
 
 
