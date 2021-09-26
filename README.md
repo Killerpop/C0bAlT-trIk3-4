@@ -12,7 +12,7 @@ Necesario tener instalado xterm
 
 Commands:
 
-	Descargarlo desde htthttps://drive.google.com/file/d/1pipXhCFxuQuPzE2PN2k0Og3EwyBvmKQ0/view?usp=sharing
+	Descargarlo desde https://drive.google.com/file/d/1pipXhCFxuQuPzE2PN2k0Og3EwyBvmKQ0/view?usp=sharing
 
 	sudo ./ExecuteCobaltStrike4.0.sh
 	
